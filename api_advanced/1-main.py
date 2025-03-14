@@ -21,3 +21,5 @@ Do MVC like it’s 1979
 GitHub is moving to GraphQL for v4 of their API (v3 was a REST API)
 Google Bug Bounty - The 5k Error Page
 PyCon 2017 Talk Videos
+wintermancer@lapbox ~/reddit_api/project $ python3 1-main.py this_is_a_fake_subreddit
+None
